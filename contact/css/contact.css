@@ -15,12 +15,6 @@ body {
   min-height: 100vh;
 }
 
-@media (min-width: 992px) {
-  body {
-    padding-top: 56px;
-  }
-}
-
 h1,
 h5,
 .navbar-brand,
@@ -47,18 +41,19 @@ footer {
   text-align: center;
 }
 
-.col-md-7 {
+/*.col-md-7 {
   padding-top: 5em;
-}
+}*/
 
-.col-md-5 {
+/*.col-md-5 {
   padding-top: 5em;
-}
+}*/
 
 ul #social-buttons {
 	margin: 0;
 	padding: 0;
 }
+
 #social-buttons li {
 	list-style-type: none;
 	display: inline-block;
@@ -84,10 +79,6 @@ ul #social-buttons {
 
 #social-buttons li i:hover {
 	color: white;
-}
-
-#social-buttons li a {
-	text-decoration: none;
 }
 
 footer {
