@@ -1,0 +1,42 @@
+/*!
+ * Start Bootstrap - The Big Picture (http://startbootstrap.com/template-overviews/the-big-picture)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+
+body {
+  background: url('../img/sealions.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  opacity: 0.9;
+}
+
+h1,
+.navbar-brand,
+.navbar-nav a {
+  font-family: 'Merriweather', serif;
+  letter-spacing: 1px;
+}
+
+p,
+a {
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 1px;
+}
+
+section a {
+  text-decoration: underline;
+}
+
+section {
+  position: relative;
+  margin-top: 25%;
+}
+
+.col-lg-6 {
+  background-color: #837f83;
+  opacity: 0.8;
+  color: #f4eae9;
+}
