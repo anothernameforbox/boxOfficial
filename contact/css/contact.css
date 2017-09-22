@@ -51,10 +51,15 @@ SOCIAL MEDIA ICONS{
   display: inline-flex;
   position: relative;
   top: 10%;
-  left: 5%;
   padding-top: 20px;
   padding-bottom: 10px;
   list-style: none;
+}
+
+@media screen and (min-width: 400px) {
+  .col-md-12 ul {
+    left: 5%;
+  }
 }
 
 @media screen and (min-width: 576px) {
